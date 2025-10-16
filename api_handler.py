@@ -1,7 +1,7 @@
 import requests
 
 API_URL = 'https://smmpakpanel.com/api/v2'  
-API_KEY = 'e89f3cfcaa4a648a8f8e5e63912dc987'
+API_KEY = 'd7e9b9d035ac6b5032a78d9b4559a748'
 
 def add_order(service_id, link, quantity):
     data = {
