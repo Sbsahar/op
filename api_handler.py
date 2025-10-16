@@ -1,7 +1,7 @@
 import requests
 
-API_URL = 'https://kd1s.com/api/v2'  # URL الـ API الخاص بالموقع (بناءً على البحث)
-API_KEY = 'd7e9b9d035ac6b5032a78d9b4559a748'  # الـ API key الخاص بك
+API_URL = 'https://kd1s.com/api/v2'  
+API_KEY = 'd7e9b9d035ac6b5032a78d9b4559a748'  
 
 def add_order(service_id, link, quantity):
     data = {
