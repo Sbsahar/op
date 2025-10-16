@@ -10,8 +10,8 @@ import api_handler
 
 # استبدل هذه المتغيرات
 BOT_TOKEN = '7524766252:AAFfFAFCMrtloJeCFI_4auUD_ahvuyaONzQ'
-DEVELOPER_ID = 6288340317  # ايدي المطور
-GROUP_ID = -1003128318782  # ID المجموعة لإرسال الطلبات
+DEVELOPER_ID = 6789179634  # ايدي المطور
+GROUP_ID = -1002091669531  # ID المجموعة لإرسال الطلبات
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
