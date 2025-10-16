@@ -9,7 +9,7 @@ import os
 import api_handler  
 
 # استبدل هذه المتغيرات
-BOT_TOKEN = '8448988054:AAGUaH9_MxzTrHkfYurJa6Bc9_B3YG0erus'
+BOT_TOKEN = '7524766252:AAFfFAFCMrtloJeCFI_4auUD_ahvuyaONzQ'
 DEVELOPER_ID = 6288340317  # ايدي المطور
 GROUP_ID = -1003128318782  # ID المجموعة لإرسال الطلبات
 
