@@ -1,7 +1,7 @@
 import requests
 
 API_URL = 'https://kd1s.com/api/v2'  
-API_KEY = 'd7e9b9d035ac6b5032a78d9b4559a748'  
+API_KEY = 'da6add328d156e971184973b1c2f8e9c'  
 
 def add_order(service_id, link, quantity):
     data = {
