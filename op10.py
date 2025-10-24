@@ -11,7 +11,7 @@ from datetime import datetime, timedelta
 
 # استبدل هذه المتغيرات
 BOT_TOKEN = '7524766252:AAFfFAFCMrtloJeCFI_4auUD_ahvuyaONzQ'
-DEVELOPER_ID = 6305419238  # ايدي المطور
+DEVELOPER_ID = 6789179634  # ايدي المطور
 GROUP_ID = -1003195575922 # ID المجموعة لإرسال الطلبات
 BOT_USERNAME = 'Chatgpt_4bbot'  # استبدل بيوزر البوت الخاص بك
 
